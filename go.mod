@@ -7,7 +7,7 @@ require (
 	github.com/smallnest/rpcx v1.7.4
 )
 
-require github.com/Gouplook/dzgin v0.1.2 // indirect
+require github.com/Gouplook/dzgin v0.1.3-0.20220418092555-416ec46952bb
 
 require (
 	github.com/akutz/memconn v0.1.0 // indirect

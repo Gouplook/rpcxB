@@ -10,8 +10,8 @@ git.apache.org/thrift.git v0.0.0-20180902110319-2566ecd5d999/go.mod h1:fPE2ZNJGy
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/ChimeraCoder/gojson v1.1.0/go.mod h1:nYbTQlu6hv8PETM15J927yM0zGj3njIldp72UT1MqSw=
 github.com/DataDog/datadog-go v3.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
-github.com/Gouplook/dzgin v0.1.2 h1:tjx8L7Oxe8KGfyf+4OsKImimi4EZcJ/FUdTveX1pBo0=
-github.com/Gouplook/dzgin v0.1.2/go.mod h1:U8U1oUG1mZ9/bnFoaB7bqeJulyrhZpKq3XYFFo9YoPU=
+github.com/Gouplook/dzgin v0.1.3-0.20220418092555-416ec46952bb h1:YXW5KfSOFgNBUBxjZqq4SDYZUcyFUjavvdtMFtpgKCQ=
+github.com/Gouplook/dzgin v0.1.3-0.20220418092555-416ec46952bb/go.mod h1:U8U1oUG1mZ9/bnFoaB7bqeJulyrhZpKq3XYFFo9YoPU=
 github.com/akutz/memconn v0.1.0 h1:NawI0TORU4hcOMsMr11g7vwlCdkYeLKXBcxWu2W/P8A=
 github.com/akutz/memconn v0.1.0/go.mod h1:Jo8rI7m0NieZyLI5e2CDlRdRqRRB4S7Xp77ukDjH+Fw=
 github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=

@@ -1,0 +1,14 @@
+
+#全局配置
+appname = rpc_B
+runmode = "${MSF_ENV||dev}"
+
+#测试环境
+[dev]
+include "dev/config.prod"
+#开发环境
+[test]
+include "test/config.prod"
+#生产环境
+[prod]
+include "prod/config.prod"
