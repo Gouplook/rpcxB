@@ -1,19 +1,16 @@
-package server
+package service
 
 import (
 	"context"
 	"github.com/Gouplook/rpcxB/logics"
 )
 
-type DemoA struct {
+type DemoB struct {
 }
 
-func (d *DemoA) Add(ctx context.Context, a int, b int, rs *int) error {
-
+func (d *DemoB) Add(ctx context.Context, a *int, b *int, rs *int) error {
 	logic := new(logics.DemoALogic)
-
 	err := logic.Add(ctx, a, b, rs)
-
 	if err != nil {
 		panic(err)
 	}

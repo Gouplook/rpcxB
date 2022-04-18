@@ -10,6 +10,7 @@ func main() {
 
 	//启动服务
 	rpcServer := server.NewServer()
+	//服务注册
 	routers.InitRpcRouters(rpcServer)
 
 	//启动链路追踪
